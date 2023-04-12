@@ -11,5 +11,10 @@ redirect_from:
 Welcome! My name is Bo-Yu Chen (pronounced with the emphasis on the first syllable 'Bo', 陳柏諭), a first-year undergraduate student in <a href="https://www.phys.ntu.edu.tw/enphysics/Default.html" target="_blank">Physics</a> at <a href="https://www.ntu.edu.tw/english/" target="_blank">National Taiwan University</a> (Start in 2023 fall). I also go by the name Matt.
 
 ## Research Interest:
-As part of my undergraduate research, I am dedicating to make contributions to data science and machine learning at a foundational level in MAGICS lab at Northwestern University. 
-My primary research interests are materials science and modern artificial intellegence. 
+My primary research center around modern artificial intellegence and quantum electronic materials and aim to revolutionarize the foundation of state-of-the-art information technology. With the tools in statistical learning theory and computational theory of Ising model, I seek to make contributions to data science and machine learning at a fundamental level. Success on this research has potential to enhance the performance of emerging Large Language Models.
+My applied research interest is to investigate magnetic sensors for data storage devices. I utilize nickel-catalyzed atmospheric pressure chemical vapor deposition (APCVD) to synthesize low defects, high uniformity, and high coverage transfer-free graphene. The goal of this research topic is to make 2D nanomaterial-based magnetic sensors with air stability commercially viable in the future.
+## Topics I am currently working on (Machine/Deep Learning):
+which includes first-principle calculation and investigation of graphene-based devices. 
+My research in the field of material science aims to provide a foundation for developing large area cabon-based ultra-thin magnetic sensors and future magneto-transport device applications. M
+As part of my undergraduate research, I am dedicating to  in MAGICS lab at Northwestern University. 
+
