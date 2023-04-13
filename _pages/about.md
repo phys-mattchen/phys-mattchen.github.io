@@ -26,5 +26,5 @@ My applied research interest is to investigate magnetic sensors for data storage
 
 ## Topics I had worked on in the past (Computational Materials Science):
 * Ab initio study on the growth mechanism of graphene on metal
-* Layer-dependent properties of SnSe2 two dimensional materials
-* First-Principles Study on Possible Half-Metallic Ferrimagnetism in Double Perovskites 
+* Layer-dependent properties of $SnSe_2$ two dimensional materials
+* First-Principles Study on Half-Metallic Ferrimagnetism in Pb-based Double Perovskites
