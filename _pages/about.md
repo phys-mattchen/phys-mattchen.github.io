@@ -24,7 +24,7 @@ My applied research interest is to investigate magnetic sensors for data storage
 * Modulation of quantum electronic material transport via vacuum annealing
 * Temperature-Dependent Magnetoresistance of Graphene
 
-## Topics I had worked on in the past (Computational Materials Science):
+## Topics I had worked on in the past (First Principle Calculation):
 * Ab initio study on the growth mechanism of graphene on metal
 * Layer-dependent properties of $SnSe_2$ two dimensional materials
 * First-Principles Study on Half-Metallic Ferrimagnetism in Pb-based Double Perovskites
