@@ -86,7 +86,7 @@ author:
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.tw/citations?user=7CPMQ6QAAAAJ&hl=zh-TW"
+  googlescholar    :
   email            : "matt930929@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-4997-1652"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
