@@ -1,16 +1,15 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Remote-office"
+permalink: /Remote-office/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Matt Chen's Remote Office
+Hello, 
 
-{% include base_path %}
+Here is Matt Chen's remote office. It is basically the same as the physical office, except it's done remotely. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Before joining my Zoom room, it would be best if you sent me a message first (might be in the middle of another meeting.)
+
+Zoom: https://us05web.zoom.us/j/6197180159?pwd=eUY1S3hjM3NTWUFHUWpid3FZWGc4Zz09
