@@ -11,4 +11,4 @@ Here is Matt Chen's remote office. It is basically the same as the physical offi
 
 Before joining my Zoom room, it would be best if you sent me a message first (might be in the middle of another meeting.)
 
-Click <a href="https://www.phys.ntu.edu.tw/enphysics/Default.html" target="_blank">here</a> to join!
+Click <a href="https://us05web.zoom.us/j/6197180159?pwd=eUY1S3hjM3NTWUFHUWpid3FZWGc4Zz09" target="_blank">here</a> to join!
