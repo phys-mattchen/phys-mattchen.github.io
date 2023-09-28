@@ -17,8 +17,7 @@ In terms of applied research, I am interested in investigating magnetic sensors 
 
 ## Topics I am currently working on (Statistical Machine Learning):
 * Computational and Statistical Theory of Ising Model in Machine Learning
-* Sparse Modern Hopfield Models and Non-parametric Modern Hopfield Models
-* Sparse Tandem Hopfield Model for Multi-Resolution Time Series Prediction
+* <a href="https://arxiv.org/abs/2309.12673" target="_blank">Sparse Modern Hopfield Models</a>
 
 ## Topics I am currently working on (Materials Science):
 * Air-stable, Defectless and Magnetoresistance Properties in Nickel-catalyzed Transfer-free Graphene
