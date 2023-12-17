@@ -16,7 +16,7 @@ I am Bo-Yu Chen (陳柏諭), a first-year undergraduate student in <a href="http
 
 ## Topics I had worked on in the past (Materials Science):
 * Synthesis of transfer-free graphene by atmospheric-pressure chemical vapour deposition (APCVD)
-* <a href="https://www.worldscientific.com/doi/10.1142/S2010324723400234" target="_blank">Modulation of Quantum Electronic Material Transport via Vacuum Annealing
+* <a href="https://www.worldscientific.com/doi/10.1142/S2010324723400234" target="_blank">Modulation of Quantum Electronic Material Transport via Vacuum Annealing</a>
 * Temperature-Dependent Magnetoresistance of Graphene
 
 ## Topics I had worked on in the past (First Principle Calculation):
