@@ -16,6 +16,7 @@ I am Bo-Yu Chen (陳柏諭), a first-year undergraduate student in <a href="http
 * **Dec, 2023** Awarded the Fu Bell Scholarship (top 1% accross National Taiwan University)! [News](https://sec.ntu.edu.tw/epaper/article.asp?num=1590&sn=23971)
 * **Sep, 2023** 1 paper ([Sparse Hopfield](https://arxiv.org/abs/2309.12673)) accepted at NeurIPS 2023! [News](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2023/strong-northwestern-cs-presence-at-the-2023-neurips-conference.html)
 * **Sep, 2023** 1 paper ([Quantum Material&Vacuum Annealing](https://www.worldscientific.com/doi/10.1142/S2010324723400234)) accepted at Spin Journal!
+* **Sep, 2023** Enrolled NTU Physics as a freshman student!
 
 ## Topics I am currently working on (Statistical Machine Learning):
 * Computational and Statistical Theory of Ising Model in Machine Learning
