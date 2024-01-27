@@ -23,6 +23,7 @@ I am Bo-Yu Chen (陳柏諭), a first-year undergraduate student in <a href="http
 ## Topics I am currently working on (Statistical Machine Learning):
 * Computational and Statistical Theory of Ising Model in Machine Learning
 * <a href="https://arxiv.org/abs/2309.12673" target="_blank">Sparse Modern Hopfield Models</a> (*NeurIPS 2023*)
+* <a href="https://arxiv.org/abs/2312.17346" target="_blank">STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction</a> (*ICLR 2024*)
 
 ## Topics I had worked on in the past (Materials Science):
 * Synthesis of transfer-free graphene by atmospheric-pressure chemical vapour deposition (APCVD)
