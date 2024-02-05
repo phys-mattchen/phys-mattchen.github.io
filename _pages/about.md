@@ -13,7 +13,7 @@ I am Bo-Yu Chen (陳柏諭), a first-year undergraduate student in <a href="http
 ## Recent News
 * **Jan, 2024** 1 paper ([STanHop](https://openreview.net/forum?id=6iwg437CZs&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions))) accepted at ICLR 2024!
 * **Jan, 2024** Our paper "On Sparse Modern Hopfield Model" was highlighted in [Northwestern CS Department News](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2023/strong-northwestern-cs-presence-at-the-2023-neurips-conference.html)!
-* **Jan, 2024** 1 paper (Magnetoresistance in Transfer-Free Graphene) accepted at Nanotechnology Journal!
+* **Jan, 2024** 1 paper ([Magnetoresistance in Transfer-Free Graphene](https://iopscience.iop.org/article/10.1088/1361-6528/ad2381/meta)) accepted at Nanotechnology Journal!
 * **Jan, 2024** New preprint [STanHop](https://arxiv.org/abs/2312.17346) on arxiv!
 * **Dec, 2023** Awarded the Fu Bell Scholarship (top 1% accross National Taiwan University)! [News](https://sec.ntu.edu.tw/epaper/article.asp?num=1590&sn=23971)
 * **Sep, 2023** 1 paper ([Sparse Hopfield](https://arxiv.org/abs/2309.12673)) accepted at NeurIPS 2023!
