@@ -26,8 +26,8 @@ I am Bo-Yu Chen (陳柏諭), a first-year undergraduate student in <a href="http
 * <a href="https://arxiv.org/abs/2312.17346" target="_blank">STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction</a> (*ICLR 2024*)
 
 ## Topics I had worked on in the past (Materials Science):
-* <a href="https://iopscience.iop.org/article/10.1088/1361-6528/ad2381/meta" target="_blank">Magnetoresistance properties in nickel-catalyzed, air-stable, uniform, and transfer-free graphene</a>
-* <a href="https://www.worldscientific.com/doi/10.1142/S2010324723400234" target="_blank">Modulation of Quantum Electronic Material Transport via Vacuum Annealing</a>
+* <a href="https://iopscience.iop.org/article/10.1088/1361-6528/ad2381/meta" target="_blank">Magnetoresistance properties in nickel-catalyzed, air-stable, uniform, and transfer-free graphene</a> (*Nanotechnology*)
+* <a href="https://www.worldscientific.com/doi/10.1142/S2010324723400234" target="_blank">Modulation of Quantum Electronic Material Transport via Vacuum Annealing</a> (*Spin*)
 
 ## Topics I had worked on in the past (First Principle Calculation):
 * Ab Initio Study on the Growth Mechanism of Graphene on Metal
