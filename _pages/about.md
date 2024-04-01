@@ -11,6 +11,7 @@ redirect_from:
 I am Bo-Yu Chen (陳柏諭), a first-year undergraduate student in <a href="https://www.phys.ntu.edu.tw/enphysics/Default.html" target="_blank">Physics</a> at <a href="https://www.ntu.edu.tw/english/" target="_blank">National Taiwan University</a>. I also go by the name Matt. I am conducting my undergraduate research with <a href="https://northwestern.jerryhu.page/home" target="_blank">Jerry Yao-Chieh Hu</a> under the supervision of Professor <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html" target="_blank">Han Liu</a> at <a href="http://magics.cs.northwestern.edu/index.html" target="_blank">MAGICS</a> lab in the <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Department of Computer Science</a>, <a href="https://www.northwestern.edu/" target="_blank">Northwestern University</a>. Prior to my undergraduate career, I was fortunate to have Professor <a href="https://cyellab453.wixsite.com/mysite/about-us" target="_blank">Chiashain Chuang</a>, <a href="https://el.cycu.edu.tw/en/portfolio-item/dung-sheng-tsai/" target="_blank">Dung-Sheng Tsai</a> and <a href="https://sites.google.com/view/buzznote/p2?authuser=0" target="_blank">Po-Han Lee</a> as my research advisors in the field of condensed matter physics.
 
 ## Recent News
+* **Mar, 2024** Awarded the Fu Bell Scholarship Again!
 * **Feb, 2024** Awarded the UChicago-Taiwan Student Exchange (UCTS) Fellowship! Looking forward to visit University of Chicago and do amazing research at the [Bernien lab](http://www.bernienlab.com/)  with [Hannes](https://pme.uchicago.edu/faculty/hannes-bernien) this summer!
 * **Jan, 2024** 1 paper ([STanHop](https://openreview.net/forum?id=6iwg437CZs&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions))) accepted at ICLR 2024!
 * **Jan, 2024** Our paper "On Sparse Modern Hopfield Model" was highlighted in [Northwestern CS Department News](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2023/strong-northwestern-cs-presence-at-the-2023-neurips-conference.html)!
@@ -20,6 +21,9 @@ I am Bo-Yu Chen (陳柏諭), a first-year undergraduate student in <a href="http
 * **Sep, 2023** 1 paper ([Sparse Hopfield](https://arxiv.org/abs/2309.12673)) accepted at NeurIPS 2023!
 * **Sep, 2023** 1 paper ([Quantum Material&Vacuum Annealing](https://www.worldscientific.com/doi/10.1142/S2010324723400234)) accepted at Spin Journal!
 * **Sep, 2023** Enrolled NTU Physics as a freshman student!
+
+## Topics I am currently working on (Experimental Quantum Information):
+* Rearrangement Protocal of Dual-Species Atom Arrays
 
 ## Topics I am currently working on (Statistical Machine Learning):
 * Computational and Statistical Theory of Ising Model in Machine Learning
