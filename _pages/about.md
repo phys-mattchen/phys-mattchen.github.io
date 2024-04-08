@@ -13,6 +13,7 @@ Furthermore, supported by [UCTS fellowship](https://ultracold.uchicago.edu/taiwa
 Prior to my undergraduate career, I was fortunate to have Professor <a href="https://cyellab453.wixsite.com/mysite/about-us" target="_blank">Chiashain Chuang</a>, <a href="https://el.cycu.edu.tw/en/portfolio-item/dung-sheng-tsai/" target="_blank">Dung-Sheng Tsai</a> and <a href="https://sites.google.com/view/buzznote/p2?authuser=0" target="_blank">Po-Han Lee</a> as my research advisors in the field of condensed matter physics.
 
 ## Recent News
+* **Apr, 2024** New preprint [Nonparametric Hopfield](https://arxiv.org/pdf/2404.03900.pdf) on arxiv!
 * **Mar, 2024** Awarded the Fu Bell Scholarship Again!
 * **Feb, 2024** Awarded the UChicago-Taiwan Student Exchange (UCTS) Fellowship! Looking forward to visit University of Chicago and do amazing research at the [Bernien lab](http://www.bernienlab.com/)  with [Hannes](https://pme.uchicago.edu/faculty/hannes-bernien) this summer!
 * **Jan, 2024** 1 paper ([STanHop](https://openreview.net/forum?id=6iwg437CZs&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions))) accepted at ICLR 2024!
