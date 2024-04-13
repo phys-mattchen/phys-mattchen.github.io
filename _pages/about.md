@@ -37,7 +37,7 @@ Prior to my undergraduate career, I was fortunate to have Professor <a href="htt
 * <a href="https://iopscience.iop.org/article/10.1088/1361-6528/ad2381/meta" target="_blank">Magnetoresistance properties in nickel-catalyzed, air-stable, uniform, and transfer-free graphene</a> (*Nanotechnology*)
 * <a href="https://www.worldscientific.com/doi/10.1142/S2010324723400234" target="_blank">Modulation of Quantum Electronic Material Transport via Vacuum Annealing</a> (*Spin*)
 
-## Topics I had worked on in the past (First Principle Calculation):
+## Topics I have worked on first principle calculation:
 * Ab Initio Study on the Growth Mechanism of Graphene on Metal
 * Layer-dependent Properties of $SnSe_2$ Two Dimensional Materials
 * <a href=" https://www.mdpi.com/1996-1944/15/9/3311" target="_blank">First-Principles Study on Half-Metallic Ferrimagnetism in Pb-based Double Perovskites</a>
