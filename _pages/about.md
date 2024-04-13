@@ -25,15 +25,15 @@ Prior to my undergraduate career, I was fortunate to have Professor <a href="htt
 * **Sep, 2023** 1 paper ([Quantum Material&Vacuum Annealing](https://www.worldscientific.com/doi/10.1142/S2010324723400234)) accepted at Spin Journal!
 * **Sep, 2023** Enrolled NTU Physics as a freshman student!
 
-## Topics I am currently working on (Experimental Quantum Information):
+## Topics I am currently working on experimental quantum information at the [Bernien Lab](http://www.bernienlab.com/):
 * Rearrangement Protocal of Dual-Species Atom Arrays
 
-## Topics I am currently working on (Statistical Machine Learning):
+## Topics I am currently working on statistical machine learning at the [Magics Lab](https://magics.cs.northwestern.edu/papers.html):
 * Computational and Statistical Theory of Ising Model in Machine Learning
 * <a href="https://arxiv.org/abs/2309.12673" target="_blank">Sparse Modern Hopfield Models</a> (*NeurIPS 2023*)
 * <a href="https://arxiv.org/abs/2312.17346" target="_blank">STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction</a> (*ICLR 2024*)
 
-## Topics I had worked on in the past (Materials Science):
+## Topics I have previously worked on 2D materials at the [Quantum Electronic Material Lab](https://cyellab453.wixsite.com/mysite):
 * <a href="https://iopscience.iop.org/article/10.1088/1361-6528/ad2381/meta" target="_blank">Magnetoresistance properties in nickel-catalyzed, air-stable, uniform, and transfer-free graphene</a> (*Nanotechnology*)
 * <a href="https://www.worldscientific.com/doi/10.1142/S2010324723400234" target="_blank">Modulation of Quantum Electronic Material Transport via Vacuum Annealing</a> (*Spin*)
 
