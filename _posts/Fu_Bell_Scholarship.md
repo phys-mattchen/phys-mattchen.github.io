@@ -1,6 +1,9 @@
 ---
 title: 'Introspection on Fu-Bell Scholarship Application'
+date: 2199-01-01
 permalink: /posts/fubell/
+tags:
+  - Scholarship
 ---
 
 前言
