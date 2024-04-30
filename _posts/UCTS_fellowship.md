@@ -1,7 +1,12 @@
 ---
 title: 'UCTS fellowship'
-date: 2013-08-14
+date: 2199-01-01
 permalink: /posts/UCTS/
+tags:
+  - UChicago
+  - UCTS
+  - Bernien Lab
+
 ---
 
 前言
