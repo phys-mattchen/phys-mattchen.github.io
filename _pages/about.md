@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Bo-Yu Chen (陳柏諭), a rising second-year undergraduate student double major in <a href="https://www.phys.ntu.edu.tw/enphysics/Default.html" target="_blank">Physics</a> and <a href="https://www.csie.ntu.edu.tw/" target="_blank">Computer Science</a> at <a href="https://www.ntu.edu.tw/english/" target="_blank">National Taiwan University</a>. I also go by the name Matt. I am conducting undergraduate research about machine learning with <a href="https://northwestern.jerryhu.page/home" target="_blank">Jerry Yao-Chieh Hu</a>, advised by <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html" target="_blank">Han Liu</a> in <a href="http://magics.cs.northwestern.edu/index.html" target="_blank">MAGICS</a> lab, <a href="https://www.mccormick.northwestern.edu/computer-science/" target="_blank">Department of Computer Science</a>, <a href="https://www.northwestern.edu/" target="_blank"> Northwestern University</a>. 
-Furthermore, supported by [UCTS fellowship](https://ultracold.uchicago.edu/taiwan), I am conducting undergraduate research about experimental quantum information with Nikhil Harle, advised by [Hannes Bernien](https://pme.uchicago.edu/faculty/hannes-bernien) in [Bernien Lab](http://www.bernienlab.com/), [Pritzker School of Molecular Engineering](https://pme.uchicago.edu/), [University of Chicago](https://www.uchicago.edu/).
-Prior to my undergraduate career, I was fortunate to have Professor <a href="https://cyellab453.wixsite.com/mysite/about-us" target="_blank">Chiashain Chuang</a>, <a href="https://el.cycu.edu.tw/en/portfolio-item/dung-sheng-tsai/" target="_blank">Dung-Sheng Tsai</a> and <a href="https://sites.google.com/view/buzznote/p2?authuser=0" target="_blank">Po-Han Lee</a> as my research advisors in the field of condensed matter physics.
+I am Bo-Yu 
+
+I am Bo-Yu Chen (陳柏諭), a second-year undergraduate student double major in Physics and Computer Science at National Taiwan University. I also go by the name Matt. I am conducting research at the Institute of Quantum Optics and Quantum Information, Austrian Academy of Sciences, supervised by Prof. Hannes Bernien.
+Previously, I was fortunate to receive UCTS fellowship and did summer research with Nikhil Harle at the Bernien lab in University of Chicago.
 
 ## Recent News
 * **Aug, 2024** Enrolled NTU CSIE for double major! (acceptance rate ~ 5% among NTU undergraduates)
