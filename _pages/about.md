@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: https://phys-mattchen.github.io/
 title: "About me"
 excerpt: "About me"
 author_profile: true
