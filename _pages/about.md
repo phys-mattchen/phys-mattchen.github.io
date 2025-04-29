@@ -11,7 +11,7 @@ I am Bo-Yu Chen (陳柏諭), a second-year undergraduate student double major in
 Previously, I was fortunate to receive UCTS fellowship and did summer research with Nikhil Harle at the Bernien lab in University of Chicago.
 
 ## Recent News
-* **Apr, 2024** Admitted to MCQST summer bachelor program! Looking forward to visit Max-Planck Institute of Quantum Optics and do amazing research at the [Quantum Matter Interfaces lab](https://www.mpq.mpg.de/6707561/zeiher) with [Johannes](https://www.mpq.mpg.de/person/107196/6707561) this summer!
+* **Apr, 2025** Admitted to MCQST summer bachelor program! Looking forward to visit Max-Planck Institute of Quantum Optics and do amazing research at the [Quantum Matter Interfaces lab](https://www.mpq.mpg.de/6707561/zeiher) with [Johannes](https://www.mpq.mpg.de/person/107196/6707561) this summer!
 * **Dec, 2024** Start my winter research in the Bernien lab @ Innsbruck! I am the first and only lab member here!
 * **Dec, 2024** Admitted to UIUC Physics as an exchange student (Fall 2025, Spring 2026)
 * **Nov, 2024** Awarded the College of Science Travel Grants and Scholarship
