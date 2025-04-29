@@ -1,11 +1,12 @@
 ---
-permalink: https://phys-mattchen.github.io/
+permalink: /about/
 title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
+  - /
 ---
 
 I am Bo-Yu 
