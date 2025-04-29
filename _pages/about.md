@@ -14,6 +14,7 @@ I am Bo-Yu Chen (陳柏諭), a second-year undergraduate student double major in
 Previously, I was fortunate to receive UCTS fellowship and did summer research with Nikhil Harle at the Bernien lab in University of Chicago.
 
 ## Recent News
+* **Sep, 2024** Awarded the Dean's list
 * **Aug, 2024** Enrolled NTU CSIE for double major! (acceptance rate ~ 5% among NTU undergraduates)
 * **Jul, 2024** Our latest research poster "Dual-Species Neutral Atom Array 2.0: Towards a Versatile and Scalable Quanutm Processor" will appear at [SIF fermi school](https://sites.google.com/unifi.it/varenna2024atoms/home), Varenna, Italy!
 * **Jun, 2024** Start my summer research in the Bernien lab (in person)!
