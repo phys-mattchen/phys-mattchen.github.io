@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Bo-Yu 
-
 I am Bo-Yu Chen (陳柏諭), a second-year undergraduate student double major in Physics and Computer Science at National Taiwan University. I also go by the name Matt. I am conducting research at the Institute of Quantum Optics and Quantum Information, Austrian Academy of Sciences, supervised by Prof. Hannes Bernien.
 Previously, I was fortunate to receive UCTS fellowship and did summer research with Nikhil Harle at the Bernien lab in University of Chicago.
 
 ## Recent News
-* **Sep, 2024** Awarded the Dean's list
+* **Apr, 2024** Admitted to MCQST summer bachelor program! Looking forward to visit Max-Planck Institute of Quantum Optics and do amazing research at the [Quantum Matter Interfaces lab](https://www.mpq.mpg.de/6707561/zeiher) with [Johannes](https://www.mpq.mpg.de/person/107196/6707561) this summer!
+* **Dec, 2024** Start my winter research in the Bernien lab @ Innsbruck! I am the first and only lab member here!
+* **Dec, 2024** Admitted to UIUC Physics as an exchange student (Fall 2025, Spring 2026)
+* **Nov, 2024** Awarded the College of Science Travel Grants and Scholarship
+* **Sep, 2024** Awarded the Presidential Award (Awarded to students ranking in the top 5%)
 * **Aug, 2024** Enrolled NTU CSIE for double major! (acceptance rate ~ 5% among NTU undergraduates)
 * **Jul, 2024** Our latest research poster "Dual-Species Neutral Atom Array 2.0: Towards a Versatile and Scalable Quanutm Processor" will appear at [SIF fermi school](https://sites.google.com/unifi.it/varenna2024atoms/home), Varenna, Italy!
 * **Jun, 2024** Start my summer research in the Bernien lab (in person)!
