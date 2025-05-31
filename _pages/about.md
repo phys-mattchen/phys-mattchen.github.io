@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Bo-Yu Chen (陳柏諭), a second-year undergraduate student double major in Physics and Computer Science at National Taiwan University. I also go by the name Matt. I am conducting research at the Institute of Quantum Optics and Quantum Information, Austrian Academy of Sciences, supervised by Prof. Hannes Bernien.
-Previously, I was fortunate to receive UCTS fellowship and did summer research with Nikhil Harle at the Bernien lab in University of Chicago.
+I am Bo-Yu Chen (陳柏諭), a second-year undergraduate student double major in Physics and Computer Science at National Taiwan University. I also go by the name Matt. I am conducting research at the [Institute of Quantum Optics and Quantum Information](https://iqoqi.at/en/), Austrian Academy of Sciences, supervised by Prof. [Hannes Bernien](https://bernienlab.com/team/staff/hannes-bernien).
+In this summer, I will do my research internship at Max-Planck Institute for Quantum Optics, supervised by Prof. [Johannes Zeiher](https://www.mpq.mpg.de/person/107196/6707561). In my junior year, I will study at [UIUC Physics](https://physics.illinois.edu/) as an exchange student.
+Previously, I was fortunate to receive [UCTS fellowship](https://ultracold.uchicago.edu/taiwan/2024fellows) and did summer research with [Nikhil Harle](https://www.linkedin.com/in/nikhil-harle-9b8a2520b/) at the Bernien lab in University of Chicago.
 
 ## Recent News
+* **May, 2025** 1 paper ([Nonparametric Hopfield](https://arxiv.org/abs/2404.03900)) accepted at ICML 2025!
 * **Apr, 2025** Admitted to MCQST summer bachelor program! Looking forward to visit Max-Planck Institute of Quantum Optics and do amazing research at the [Quantum Matter Interfaces lab](https://www.mpq.mpg.de/6707561/zeiher) with [Johannes](https://www.mpq.mpg.de/person/107196/6707561) this summer!
-* **Dec, 2024** Start my winter research in the Bernien lab @ Innsbruck! I am the first and only lab member here!
+* **Dec, 2024** Start my winter research at the Bernien lab @ Innsbruck! I am the first and only lab member here!
 * **Dec, 2024** Admitted to UIUC Physics as an exchange student (Fall 2025, Spring 2026)
 * **Nov, 2024** Awarded the College of Science Travel Grants and Scholarship
 * **Sep, 2024** Awarded the Presidential Award (Awarded to students ranking in the top 5%)
