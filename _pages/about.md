@@ -9,9 +9,9 @@ redirect_from:
 
 I am Bo-Yu Chen (陳柏諭), a third-year undergraduate student double major in Physics and Computer Science at National Taiwan University. I also go by the name Matt.
 
-Currently, I am doing my research internship at [Max-Planck Institute for Quantum Optics](https://www.mpq.mpg.de/en), supervised by Prof. [Johannes Zeiher](https://www.mpq.mpg.de/person/107196/6707561). 
+Currently, I am doing my research internship at [Max-Planck-Institute for Quantum Optics](https://www.mpq.mpg.de/en), supervised by Prof. [Johannes Zeiher](https://www.mpq.mpg.de/person/107196/6707561). 
 
-In my junior year, I will study at [UIUC Physics](https://physics.illinois.edu/) as an exchange student and work in [Chin Lab](https://ultracold.uchicago.edu) under the supervision of Prof. [Cheng Chin](https://physics.uchicago.edu/people/profile/cheng-chin/).
+In my junior year, I will study at [UIUC Physics](https://physics.illinois.edu/) as an exchange student and work in [Chin Lab](https://ultracold.uchicago.edu) @ UChicago under the supervision of Prof. [Cheng Chin](https://physics.uchicago.edu/people/profile/cheng-chin/).
 
 Previously, I was fortunate to receive [UCTS fellowship](https://ultracold.uchicago.edu/taiwan/2024fellows) and did summer research with [Nikhil Harle](https://www.linkedin.com/in/nikhil-harle-9b8a2520b/) at the Bernien Lab @ UChicago and to be the first (and the only) member at the Bernien Lab @ [IQOQI Innsbruck](https://iqoqi.at/en/), Austrian Academy of Sciences, under the supervision of Prof. [Hannes Bernien](https://bernienlab.com/team/staff/hannes-bernien).
 
