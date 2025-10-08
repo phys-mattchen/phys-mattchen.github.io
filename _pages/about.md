@@ -17,7 +17,7 @@ In 2025 winter, following relocation of the [Bernien Lab](https://bernienlab.com
 
 In 2024 summer, I was fortunate to receive [UCTS fellowship](https://ultracold.uchicago.edu/taiwan/2024fellows) and did summer research with [Nikhil Harle](https://www.linkedin.com/in/nikhil-harle-9b8a2520b/) at the Bernien Lab @ UChicago. Here, I laid the foundation of [_atommovr_](https://arxiv.org/abs/2508.02670).
 
-In my freshman year, I did my remote research internship with [Jerry Yao-Chieh Hu](https://northwestern.jerryhu.page/home)in [MAGICS](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) lab @ Northwestern U, under the supervision of Prof. Han Liu. In this (virtual) journey, I explored the theory of Hopfield network, a foundational model inspired by Ising model in statistical physics.
+In my freshman year, I did my remote research internship with [Jerry Yao-Chieh Hu](https://northwestern.jerryhu.page/home) in [MAGICS](http://magics.cs.northwestern.edu/index.html) lab @ Northwestern U, under the supervision of Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html). In this (virtual) journey, I explored the theory of Hopfield network, a foundational model inspired by Ising model in statistical physics.
 
 ## Recent News
 * **Oct, 2025** Awarded the Fu Bell Scholarship Again!
