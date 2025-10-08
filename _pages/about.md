@@ -9,17 +9,23 @@ redirect_from:
 
 I am Bo-Yu Chen (陳柏諭), a third-year undergraduate student double major in Physics and Computer Science at National Taiwan University. I also go by the name Matt.
 
-Currently, I am studying at [UIUC Physics](https://physics.illinois.edu/) as an exchange student and work in [Chin Lab](https://ultracold.uchicago.edu) @ UChicago under the supervision of Prof. [Cheng Chin](https://physics.uchicago.edu/people/profile/cheng-chin/).
+Currently, I am studying at [UIUC Physics](https://physics.illinois.edu/) as an exchange student and work in [Chin Lab](https://ultracold.uchicago.edu) @ UChicago under the supervision of Prof. [Cheng Chin](https://physics.uchicago.edu/people/profile/cheng-chin/). I am characterizing new DMD (digital micromirror device) used for manipulating optical lattice system.
 
-Previously, supported by MCQST Summer Bachelor Program, I did my research internship at [Max-Planck-Institute for Quantum Optics](https://www.mpq.mpg.de/en), supervised by Prof. [Johannes Zeiher](https://www.mpq.mpg.de/person/107196/6707561). 
+In 2025 summer, supported by [MCQST](https://www.mcqst.de/), I did my research internship at [MPQ](https://www.mpq.mpg.de/en), supervised by Prof. [Johannes Zeiher](https://www.mpq.mpg.de/person/107196/6707561). In this journey, I built crossed-AODs experimental setup for physically implementing _atommovr_ and a naive interface between AWG Spectrum card and _atommovr_ for real-time atom rearrangement control.
 
-In my freshman and sophomore year, I was fortunate to receive [UCTS fellowship](https://ultracold.uchicago.edu/taiwan/2024fellows) and did summer research with [Nikhil Harle](https://www.linkedin.com/in/nikhil-harle-9b8a2520b/) at the Bernien Lab @ UChicago and to be the first (and the only) member at the Bernien Lab @ [IQOQI Innsbruck](https://iqoqi.at/en/), Austrian Academy of Sciences, under the supervision of Prof. [Hannes Bernien](https://bernienlab.com/team/staff/hannes-bernien).
+In 2025 winter, following relocation of the [Bernien Lab](https://bernienlab.com/), I continued my journey @ [IQOQI Innsbruck](https://iqoqi.at/en/), Austrian Academy of Sciences, as the first (and was the only) lab member. In this journey, I developed InsideOut, the first rearrangement algorithm for dual-species atom arrays with arbitrary geometry reaching utility success rate.
+
+In 2024 summer, I was fortunate to receive [UCTS fellowship](https://ultracold.uchicago.edu/taiwan/2024fellows) and did summer research with [Nikhil Harle](https://www.linkedin.com/in/nikhil-harle-9b8a2520b/) at the Bernien Lab @ UChicago. Here, I laid the foundation of [_atommovr_](https://arxiv.org/abs/2508.02670).
+
+In my freshman year, I did my remote research internship with [Jerry Yao-Chieh Hu](https://northwestern.jerryhu.page/home)in [MAGICS](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html) lab @ Northwestern U, under the supervision of Prof. Han Liu. In this (virtual) journey, I explored the theory of Hopfield network, a foundational model inspired by Ising model in statistical physics.
 
 ## Recent News
+* **Oct, 2025** Awarded the Fu Bell Scholarship Again!
 * **Aug, 2025** My first day at UChicago (second time)!
 * **Aug, 2025** New preprint ([_Atommovr_](https://arxiv.org/abs/2508.02670)) on arxiv! The software is available [here](https://github.com/bernienlab/atommovr)
 * **May, 2025** 1 paper ([Nonparametric Hopfield](https://arxiv.org/abs/2404.03900)) accepted at ICML 2025!
 * **Apr, 2025** Admitted to MCQST summer bachelor program! Looking forward to visit Max-Planck Institute of Quantum Optics and do amazing research at the [Quantum Matter Interfaces lab](https://www.mpq.mpg.de/6707561/zeiher) with [Johannes](https://www.mpq.mpg.de/person/107196/6707561) this summer!
+* **Mar, 2025** Awarded the Fu Bell Scholarship Again!
 * **Dec, 2024** Start my winter research at the Bernien lab @ Innsbruck! I am the first and only lab member here!
 * **Dec, 2024** Admitted to UIUC Physics as an exchange student (Fall 2025, Spring 2026)
 * **Nov, 2024** Awarded the College of Science Travel Grants and Scholarship
