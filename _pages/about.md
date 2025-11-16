@@ -20,6 +20,7 @@ In 2024 summer, I was fortunate to receive [UCTS fellowship](https://ultracold.u
 In my freshman year, I did my remote research internship with [Jerry Yao-Chieh Hu](https://northwestern.jerryhu.page/home) in [MAGICS](http://magics.cs.northwestern.edu/index.html) lab @ Northwestern U, under the supervision of Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html). In this (virtual) journey, I explored the theory of Hopfield network, a foundational model inspired by Ising model in statistical physics.
 
 ## Recent News
+* **Nov, 2025** Invited to participate [Fermilab Quantum Symposium](https://sqmscenter.fnal.gov/annual-meeting-and-quantum-symposium-2025/)! First visit to Natioanl Lab. Welcome to drop me message if you'd like to connect.
 * **Oct, 2025** Awarded the Fu Bell Scholarship Again!
 * **Aug, 2025** My first day at UChicago (second time)!
 * **Aug, 2025** New preprint ([_Atommovr_](https://arxiv.org/abs/2508.02670)) on arxiv! The software is available [here](https://github.com/bernienlab/atommovr)
