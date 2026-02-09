@@ -9,12 +9,12 @@ redirect_from:
 
 I am Bo-Yu Chen (陳柏諭), a third-year undergraduate student double major in Physics and Computer Science at National Taiwan University. I also go by the name Matt.
 
-I am a research intern in [Chin Lab](https://ultracold.uchicago.edu) at [UChicago Physics](https://physics.uchicago.edu/) and an exchange student at [UIUC Physics](https://physics.illinois.edu/). In 2026 summer, I will join [Yan Lab](https://sites.google.com/view/unaqo-lab/) at Columbia Physics as a visiting researcher and founding member.
+I am a research intern in [Chin Lab](https://ultracold.uchicago.edu) at [UChicago Physics](https://physics.uchicago.edu/) and an exchange student at [UIUC Physics](https://physics.illinois.edu/). In 2026 summer, I will join [Yan Lab](https://sites.google.com/view/unaqo-lab/) at Columbia Physics as a founding member to construct the new quantum simulation platform.
 
 I was a research intern in [MAGICS Lab](https://magics.cs.northwestern.edu/index.html) at [Northwestern University CS](https://www.mccormick.northwestern.edu/computer-science/) (remote) and in [Bernien Lab](https://bernienlab.com/) at [UChicago Pritzker School of Molecular Engineering](https://pme.uchicago.edu/) and at [Institute for Quantum Optics and Quantum Information Innsbruck](https://iqoqi.at/en/) and in [Zeiher Lab](https://www.mpq.mpg.de/person/107196/6707561) at [Max Planck Institute for Quantum Optics](https://www.mpq.mpg.de/en).
 
 ## Recent News
-* **Jan, 2026** Accepted as a visiting researcher at Columbia University (May 2026 - Feb 2027).
+* **Jan, 2026** Accepted as a visiting student intern at Columbia University (May 2026 - Feb 2027).
 * **Jan, 2026** Awarded the Dean's List at Grainger College of Engineering, UIUC (Fall 2025).
 * **Dec, 2025** Finish the first exchange semester at UIUC, get 4.0 GPA from 16 credits of physics course! Rank 1/22 in grad-level Modern Atomic Physics final!
 * **Nov, 2025** Invited to participate [Fermilab Quantum Symposium](https://sqmscenter.fnal.gov/annual-meeting-and-quantum-symposium-2025/)! First visit to National Lab. Welcome to drop me message if you'd like to connect.
