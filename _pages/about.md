@@ -9,17 +9,13 @@ redirect_from:
 
 I am Bo-Yu Chen (陳柏諭), a third-year undergraduate student double major in Physics and Computer Science at National Taiwan University. I also go by the name Matt.
 
-Currently, I am studying at [UIUC Physics](https://physics.illinois.edu/) as an exchange student and work in [Chin Lab](https://ultracold.uchicago.edu) @ UChicago under the supervision of Prof. [Cheng Chin](https://physics.uchicago.edu/people/profile/cheng-chin/). I am characterizing new DMD (digital micromirror device) used for manipulating optical lattice system.
+I am a research intern in [Chin Lab](https://ultracold.uchicago.edu) at [UChicago Physics](https://physics.uchicago.edu/) and an exchange student at [UIUC Physics](https://physics.illinois.edu/). In 2026 summer, I will join [Yan Lab](https://sites.google.com/view/unaqo-lab/) at Columbia Physics as a visiting researcher and founding member.
 
-In 2025 summer, supported by [MCQST](https://www.mcqst.de/), I did my research internship at [MPQ](https://www.mpq.mpg.de/en), supervised by Prof. [Johannes Zeiher](https://www.mpq.mpg.de/person/107196/6707561). In this journey, I built crossed-AODs experimental setup for physically implementing _atommovr_ and a naive interface between AWG Spectrum card and _atommovr_ for real-time atom rearrangement control.
-
-In 2025 winter, following relocation of the [Bernien Lab](https://bernienlab.com/), I continued my journey @ [IQOQI Innsbruck](https://iqoqi.at/en/), Austrian Academy of Sciences, as the first (and was the only) lab member. In this journey, I developed InsideOut, the first rearrangement algorithm for dual-species atom arrays with arbitrary geometry reaching utility success rate.
-
-In 2024 summer, I was fortunate to receive [UCTS fellowship](https://ultracold.uchicago.edu/taiwan/2024fellows) and did summer research with [Nikhil Harle](https://www.linkedin.com/in/nikhil-harle-9b8a2520b/) at the Bernien Lab @ UChicago. Here, I laid the foundation of [_atommovr_](https://arxiv.org/abs/2508.02670).
-
-In my freshman year, I did my remote research internship with [Jerry Yao-Chieh Hu](https://northwestern.jerryhu.page/home) in [MAGICS](http://magics.cs.northwestern.edu/index.html) lab @ Northwestern U, under the supervision of Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html). In this (virtual) journey, I explored the theory of Hopfield network, a foundational model inspired by Ising model in statistical physics.
+I was a research intern in [MAGICS Lab](https://magics.cs.northwestern.edu/index.html) at [Northwestern University CS](https://www.mccormick.northwestern.edu/computer-science/) (remote) and in [Bernien Lab](https://bernienlab.com/) at [UChicago Pritzker School of Molecular Engineering](https://pme.uchicago.edu/) and at [Institute for Quantum Optics and Quantum Information Innsbruck](https://iqoqi.at/en/) and in [Zeiher Lab](https://www.mpq.mpg.de/person/107196/6707561) at [Max Planck Institute for Quantum Optics](https://www.mpq.mpg.de/en).
 
 ## Recent News
+* **Jan, 2026** Accepted as a visiting researcher at Columbia University (May 2026 - Feb 2027).
+* **Jan, 2026** Awarded the Dean's List at Grainger College of Engineering, UIUC (Fall 2025).
 * **Dec, 2025** Finish the first exchange semester at UIUC, get 4.0 GPA from 16 credits of physics course! Rank 1/22 in grad-level Modern Atomic Physics final!
 * **Nov, 2025** Invited to participate [Fermilab Quantum Symposium](https://sqmscenter.fnal.gov/annual-meeting-and-quantum-symposium-2025/)! First visit to National Lab. Welcome to drop me message if you'd like to connect.
 * **Oct, 2025** Awarded the Fu Bell Scholarship Again!
@@ -46,20 +42,3 @@ In my freshman year, I did my remote research internship with [Jerry Yao-Chieh H
 * **Sep, 2023** 1 paper ([Sparse Hopfield](https://arxiv.org/abs/2309.12673)) accepted at NeurIPS 2023!
 * **Sep, 2023** 1 paper ([Quantum Material&Vacuum Annealing](https://www.worldscientific.com/doi/10.1142/S2010324723400234)) accepted at Spin Journal!
 * **Sep, 2023** Enrolled NTU Physics as a freshman student!
-
-## Topics I am currently working on experimental quantum information @ [Bernien Lab](http://www.bernienlab.com/):
-* Rearrangement Protocal of Dual-Species Atom Arrays
-
-## Topics I am currently working on statistical machine learning @ [Magics Lab](https://magics.cs.northwestern.edu/papers.html):
-* Computational and Statistical Theory of Ising Model in Machine Learning
-* <a href="https://arxiv.org/abs/2309.12673" target="_blank">Sparse Modern Hopfield Models</a> (*NeurIPS 2023*)
-* <a href="https://arxiv.org/abs/2312.17346" target="_blank">STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction</a> (*ICLR 2024*)
-
-## Topics I have previously worked on 2D materials @ [Quantum Electronic Material Lab](https://cyellab453.wixsite.com/mysite):
-* <a href="https://iopscience.iop.org/article/10.1088/1361-6528/ad2381/meta" target="_blank">Magnetoresistance properties in nickel-catalyzed, air-stable, uniform, and transfer-free graphene</a> (*Nanotechnology*)
-* <a href="https://www.worldscientific.com/doi/10.1142/S2010324723400234" target="_blank">Modulation of Quantum Electronic Material Transport via Vacuum Annealing</a> (*Spin*)
-
-## Topics I have worked on first principle calculation:
-* Ab Initio Study on the Growth Mechanism of Graphene on Metal
-* Layer-dependent Properties of $SnSe_2$ Two Dimensional Materials
-* <a href=" https://www.mdpi.com/1996-1944/15/9/3311" target="_blank">First-Principles Study on Half-Metallic Ferrimagnetism in Pb-based Double Perovskites</a>
