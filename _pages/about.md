@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Bo-Yu Chen (陳柏諭), a third-year undergraduate student double major in Physics and Computer Science at National Taiwan University. I also go by the name Matt.
+I am Bo-Yu Chen (陳柏諭), also known as Matt, a third-year undergraduate student double majoring in Physics and Computer Science at National Taiwan University.
 
-I am a research intern in [Chin Lab](https://ultracold.uchicago.edu) at [UChicago Physics](https://physics.uchicago.edu/) and an exchange student at [UIUC Physics](https://physics.illinois.edu/). In 2026 summer, I will join [Yan Lab](https://sites.google.com/view/unaqo-lab/) at Columbia Physics as a founding member to construct the new quantum simulation platform.
+I am currently a visiting student intern at [Columbia Physics](https://www.physics.columbia.edu/), working in the [UNAQO / Yan Lab](https://sites.google.com/view/unaqo-lab/) on building a new quantum simulation platform. I previously spent the 2025–2026 academic year as an exchange student in [UIUC Physics](https://physics.illinois.edu/) and was affiliated with the [Chin Lab](https://ultracold.uchicago.edu/) at [UChicago James Franck Institute](https://jamesfranckinstitute.uchicago.edu/).
 
-I was a research intern in [MAGICS Lab](https://magics.cs.northwestern.edu/index.html) at [Northwestern University CS](https://www.mccormick.northwestern.edu/computer-science/) (remote) and in [Bernien Lab](https://bernienlab.com/) at [UChicago Pritzker School of Molecular Engineering](https://pme.uchicago.edu/) and at [Institute for Quantum Optics and Quantum Information Innsbruck](https://iqoqi.at/en/) and in [Zeiher Lab](https://www.mpq.mpg.de/person/107196/6707561) at [Max Planck Institute for Quantum Optics](https://www.mpq.mpg.de/en).
+My research interests include quantum simulation, neutral atom arrays, and machine learning. I have conducted research at [Northwestern CS](https://www.mccormick.northwestern.edu/computer-science/), [UChicago PME](https://pme.uchicago.edu/), [IQOQI Innsbruck](https://iqoqi.at/en/), and the [Max Planck Institute of Quantum Optics](https://www.mpq.mpg.de/en).
 
 ## Recent News
 * **Jan, 2026** Accepted as a visiting student intern at Columbia University (May 2026 - Feb 2027).
