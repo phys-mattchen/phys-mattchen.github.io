@@ -9,8 +9,7 @@ redirect_from:
 
 I am Bo-Yu Chen (陳柏諭), also known as Matt, a third-year undergraduate student double majoring in Physics and Computer Science at National Taiwan University.
 
-I am currently a visiting student intern at [Columbia Physics](https://www.physics.columbia.edu/), working in the [UNAQO / Yan Lab](https://sites.google.com/view/unaqo-lab/) on building a new quantum simulation platform. I previously spent the 2025–2026 academic year as an exchange student in [UIUC Physics](https://physics.illinois.edu/) and was affiliated with the [Chin Lab](https://ultracold.uchicago.edu/) at [UChicago James Franck Institute](https://jamesfranckinstitute.uchicago.edu/).
-
+I am currently a visiting student intern at [Columbia Physics](https://www.physics.columbia.edu/), working in the [UNAQO / Yan Lab](https://sites.google.com/view/unaqo-lab/) on building a new quantum simulation platform. I previously spent the 2025–2026 academic year as an exchange student in [UIUC Physics](https://physics.illinois.edu/).
 My research interests include quantum simulation, neutral atom arrays, and machine learning. I have conducted research at [Northwestern CS](https://www.mccormick.northwestern.edu/computer-science/), [UChicago PME](https://pme.uchicago.edu/), [IQOQI Innsbruck](https://iqoqi.at/en/), and the [Max Planck Institute of Quantum Optics](https://www.mpq.mpg.de/en).
 
 ## Recent News
